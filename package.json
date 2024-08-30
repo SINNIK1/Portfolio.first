@@ -39,6 +39,7 @@
     ]
   },
   "devDependencies": {
+    "ajv": "^7.2.4",
     "aos": "^2.3.4",
     "particles-bg": "^2.5.5"
   }
