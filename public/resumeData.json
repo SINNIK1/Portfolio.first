@@ -54,23 +54,23 @@
         "company": "Alt Digital Technologies",
         "title": "Front-End Developer Intern",
         "years": "June 2023 - August 2023",
-        "description": "Engineered a cutting-edge survey platform that gleaned insights from diverse regions. Crafted an engaging user interface using React JS, Redux, and Material-UI. Seamlessly integrated APIs for a holistic user experience. Orchestrated production deployments on AWS using Jenkins for scalability and reliability."
+        "description": "Engineered a cutting-edge survey platform that gleaned insights from diverse regions. Crafted an engaging user interface using React JS, Redux, and Material-UI. Seamlessly integrated APIs for a holistic user experience. Orchestrated production deployments on AWS using for scalability and reliability."
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "SocialFeed 2.0 (Next JS, Clerk, MongoDB, Tailwind CSS)",
+        "title": "Exercise Recommender (React JS, RestAPI, Tailwind CSS)",
         "category": "web application",
         "image": "social2.0.png",
-        "url": "https://github.com/kumaratul60/linkedIn-2.0"
+        "url": "https://github.com/SINNIK1/Fitness.Api"
       },
       {
-        "title": "Youtube-build (React JS, Redux, Tailwind CSS)",
+        "title": "Safe Haven (Next JS, Metamask, Moralis, Prisma)",
         "category": "web application",
         "image": "utube.png",
-        "url": "https://github.com/kumaratul60/youtube-build"
+        "url": "https://github.com/Fat-Earth/safe-haven"
       },
       {
         "title": "NetFlix Entertainment app (React JS, Redux, Tailwind CSS)",
@@ -95,42 +95,6 @@
         "category": "open ai tool",
         "image": "open1.png",
         "url": "https://github.com/kumaratul60/ai-summarizer"
-      },
-      {
-        "title": "cars-showcase web (NextJS,TypeScript)",
-        "category": "catalog cars",
-        "image": "image.png",
-        "url": "https://github.com/kumaratul60/cars-showcase"
-      },
-      {
-        "title": "E-commerce site (React JS, Next Js, Redux, NextAuth, Tailwind css)",
-        "category": "E-commerce",
-        "image": "amzn.png",
-        "url": "https://github.com/kumaratul60/mezon-ecommerce"
-      },
-      {
-        "title": "LinkedIn Clone (React JS, Redux, Firebase-auth,db)",
-        "category": "Social-media",
-        "image": "linkedin.png",
-        "url": "https://github.com/kumaratul60/LinkedIn-clone"
-      },
-      {
-        "title": "Covid-19 Tracker (React JS)",
-        "category": "Live API based SPA",
-        "image": "covid-19 tracker.png",
-        "url": "https://github.com/kumaratul60/covid-19-tracker"
-      },
-      {
-        "title": "Mail-me (React JS, Redux Firebase)",
-        "category": "e-mail",
-        "image": "mail.png",
-        "url": "https://github.com/kumaratul60/mail-me-clone"
-      },
-      {
-        "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
-        "category": "Room-Chat messenger",
-        "image": "slack1.png",
-        "url": "https://github.com/kumaratul60/slockon-webapp"
       }
     ]
   },

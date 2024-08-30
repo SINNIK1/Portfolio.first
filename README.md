@@ -1,2 +1,2 @@
 # my-portfolio
-this first of it's kind
+the first of it's kind
