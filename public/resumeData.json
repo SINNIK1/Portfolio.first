@@ -1,0 +1,145 @@
+{
+  "main": {
+    "name": "Kartik Upender",
+    "occupation": "Web Developer",
+    "image": "rp.jpg",
+    "bio": "Hello there!, I’m Kartik, a Web Developer, now advancing towards becoming a Full-stack developer. I specialize in creating scalable web applications that deliver exceptional user experiences. Driven by curiosity and a passion for technology, I constantly upgrade my skills to stay at the cutting edge. I thrive on challenges and excel in transforming complex requirements into high-quality solutions. Let’s connect and see how my expertise can add value to your next project.",
+    "contactMessage": "Get in touch with me!",
+    "email": "kartikch190302@gmail.com",
+    "address": {
+      "city": "New Delhi,",
+      "state": "Delhi"
+    },
+    "resumeDownload": "https://drive.google.com/file/d/15q_0bIPFmpcn-L14q6LZhKYqapM6jwiz/view?usp=sharing",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://x.com/KartikCh587333",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kartik-upender-67926a264/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/SINNIK1",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_kartik19/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Delhi Technological University - India",
+        "degree": "B.Tech, Electronics and Communication Engineering",
+        "graduated": "(Expected August 2025)",
+        "description": "Final year with 6.4 CGPA"
+      }
+    ],
+    "work": [
+      {
+        "company": "Velocis Systems Pvt. Ltd.",
+        "title": "Software Developer Intern",
+        "years": "June 2024 - August 2024",
+        "description": "Designed and implemented a comprehensive tool for algorithm developers and trading platforms. Enabled users to create, backtest, and transition strategies from paper trading to live trading, reducing strategy development time by 13x. Developed features to generate detailed summary reports with various chart types (heatmap, bar, line), resulting in a 14x increase in user engagement."
+      },
+      {
+        "company": "Alt Digital Technologies",
+        "title": "Front-End Developer Intern",
+        "years": "June 2023 - August 2023",
+        "description": "Engineered a cutting-edge survey platform that gleaned insights from diverse regions. Crafted an engaging user interface using React JS, Redux, and Material-UI. Seamlessly integrated APIs for a holistic user experience. Orchestrated production deployments on AWS using Jenkins for scalability and reliability."
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SocialFeed 2.0 (Next JS, Clerk, MongoDB, Tailwind CSS)",
+        "category": "web application",
+        "image": "social2.0.png",
+        "url": "https://github.com/kumaratul60/linkedIn-2.0"
+      },
+      {
+        "title": "Youtube-build (React JS, Redux, Tailwind CSS)",
+        "category": "web application",
+        "image": "utube.png",
+        "url": "https://github.com/kumaratul60/youtube-build"
+      },
+      {
+        "title": "NetFlix Entertainment app (React JS, Redux, Tailwind CSS)",
+        "category": "web application",
+        "image": "netflix.png",
+        "url": "https://github.com/kumaratul60/netflix-build"
+      },
+      {
+        "title": "Podify music app (React JS, Redux Vite, Tailwind CSS)",
+        "category": "web application",
+        "image": "podify.png",
+        "url": "https://github.com/kumaratul60/podify"
+      },
+      {
+        "title": "my-web (HTML,CSS)",
+        "category": "portfolio",
+        "image": "new-pp.png",
+        "url": "https://atul-myportfolio.netlify.app"
+      },
+      {
+        "title": "ai-summarizer (Raect)",
+        "category": "open ai tool",
+        "image": "open1.png",
+        "url": "https://github.com/kumaratul60/ai-summarizer"
+      },
+      {
+        "title": "cars-showcase web (NextJS,TypeScript)",
+        "category": "catalog cars",
+        "image": "image.png",
+        "url": "https://github.com/kumaratul60/cars-showcase"
+      },
+      {
+        "title": "E-commerce site (React JS, Next Js, Redux, NextAuth, Tailwind css)",
+        "category": "E-commerce",
+        "image": "amzn.png",
+        "url": "https://github.com/kumaratul60/mezon-ecommerce"
+      },
+      {
+        "title": "LinkedIn Clone (React JS, Redux, Firebase-auth,db)",
+        "category": "Social-media",
+        "image": "linkedin.png",
+        "url": "https://github.com/kumaratul60/LinkedIn-clone"
+      },
+      {
+        "title": "Covid-19 Tracker (React JS)",
+        "category": "Live API based SPA",
+        "image": "covid-19 tracker.png",
+        "url": "https://github.com/kumaratul60/covid-19-tracker"
+      },
+      {
+        "title": "Mail-me (React JS, Redux Firebase)",
+        "category": "e-mail",
+        "image": "mail.png",
+        "url": "https://github.com/kumaratul60/mail-me-clone"
+      },
+      {
+        "title": " Slack-on (React JS, Next Js, Styled Components, Firebase-db)",
+        "category": "Room-Chat messenger",
+        "image": "slack1.png",
+        "url": "https://github.com/kumaratul60/slockon-webapp"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Winners never quit, and quitters never win.” ",
+        "user": "Vince Lombardi"
+      }
+    ]
+  }
+}
