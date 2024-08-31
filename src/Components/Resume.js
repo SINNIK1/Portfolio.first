@@ -9,7 +9,7 @@ const Resume = ({ data }) => {
     return null;
   }
 
-  const { skillMessage, education, work, skills } = data;
+  const { education, work} = data;
 
   const renderEducation = () => {
     if (!education || education.length === 0) {
@@ -44,20 +44,8 @@ const Resume = ({ data }) => {
       </div>
     ));
   };
-
-  const renderSkills = () => {
-    if (!skills || skills.length === 0) {
-      return null;
-    }
-
-    return skills.map((skillsItem) => (
-      <li key={skillsItem.name}>
-        <em>{skillsItem.name}</em>
-      </li>
-    ));
-  };
-
   return (
+
     <section id="resume">
       <Slide left duration={1000}>
         <div className="row education">
@@ -97,7 +85,7 @@ const Resume = ({ data }) => {
         </div>
       </Slide>
 
-      <Slide left duration={1300} style={{backgroundcolor:"#000"}}>
+      <Slide left duration={1300}>
         <div className="row skill">
           <div className="three columns header-col">
             <h1>

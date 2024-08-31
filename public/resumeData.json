@@ -48,13 +48,13 @@
         "company": "Velocis Systems Pvt. Ltd.",
         "title": "Software Developer Intern",
         "years": "June 2024 - August 2024",
-        "description": "Designed and implemented a comprehensive tool for algorithm developers and trading platforms. Enabled users to create, backtest, and transition strategies from paper trading to live trading, reducing strategy development time by 13x. Developed features to generate detailed summary reports with various chart types (heatmap, bar, line), resulting in a 14x increase in user engagement."
+        "description": "Led the development of a digital platform for PMKISAN, simplifying land registry for over 30,000 farmers in the Northeast. Utilized AngularJS and C# with ASP.NET Core MVC, optimizing data processing by 20% with PostgreSQL and integrating five internal APIs to enhance platform communication by 15%."
       },
       {
         "company": "Alt Digital Technologies",
         "title": "Front-End Developer Intern",
         "years": "June 2023 - August 2023",
-        "description": "Engineered a cutting-edge survey platform that gleaned insights from diverse regions. Crafted an engaging user interface using React JS, Redux, and Material-UI. Seamlessly integrated APIs for a holistic user experience. Orchestrated production deployments on AWS using for scalability and reliability."
+        "description": "Collaborated with a team of six developers to design, develop, and deploy responsive web applications using HTML, CSS, and JavaScript, Ensured cross-browser compatibility across five major browsers while contributing to a 15% reduction in page load times and gaining hands-on experience throughout the software development lifecycle."
       }
     ]
   },
@@ -73,6 +73,18 @@
         "url": "https://github.com/Fat-Earth/safe-haven"
       },
       {
+        "title": "ai-summarizer (React)",
+        "category": "open ai tool",
+        "image": "open1.png",
+        "url": "https://github.com/kumaratul60/ai-summarizer"
+      },
+      {
+        "title": "Kar's.Folio (Javascript,HTML,CSS)",
+        "category": "portfolio",
+        "image": "new-pp.png",
+        "url": "https://github.com/SINNIK1/Portfolio.first"
+      },
+      {
         "title": "NetFlix Entertainment app (React JS, Redux, Tailwind CSS)",
         "category": "web application",
         "image": "netflix.png",
@@ -83,18 +95,6 @@
         "category": "web application",
         "image": "podify.png",
         "url": "https://github.com/kumaratul60/podify"
-      },
-      {
-        "title": "my-web (HTML,CSS)",
-        "category": "portfolio",
-        "image": "new-pp.png",
-        "url": "https://atul-myportfolio.netlify.app"
-      },
-      {
-        "title": "ai-summarizer (Raect)",
-        "category": "open ai tool",
-        "image": "open1.png",
-        "url": "https://github.com/kumaratul60/ai-summarizer"
       }
     ]
   },

@@ -1,4 +1,4 @@
-import { Fade } from "react-reveal";
+import { Slide } from "react-reveal";
 
 const Portfolio = ({ data }) => {
   if (!data || !data.projects || data.projects.length === 0) {
@@ -39,21 +39,21 @@ const Portfolio = ({ data }) => {
   });
 
   return (
-    <section id="portfolio">
-      <Fade left duration={1000} distance="40px">
-        <div className="row">
-          <div className="twelve columns collapsed">
-            <h1>Things I build.</h1>
-
-            <div
-              id="portfolio-wrapper"
-              className="bgrid-quarters s-bgrid-thirds cf"
-            >
-              {renderProjects}
-            </div>
+    <section id="resume">
+      <Slide left duration={1300}>
+        <div className="row skill">
+          <div className="three columns header-col">
+            <h1>
+              <span>Projects</span>
+            </h1>
           </div>
+          <div class="bars-container">
+
+              {renderProjects}
+         
+          </div>                    
         </div>
-      </Fade>
+      </Slide>
     </section>
   );
 };

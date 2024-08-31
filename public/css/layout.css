@@ -273,13 +273,7 @@ ul#nav li a:hover {
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
-  .border-bottom-custom {
-    border-bottom: 1px solid #000000;
-    display: inline-block;
-    width: calc(100% - 20px); /* Reduce the width by 20px (10px on both sides) */
-    margin-left: 10px;
-    margin-right: 10px;
-  }
+  
 }
 
 #resume a,
@@ -355,6 +349,11 @@ ul#nav li a:hover {
   width: 100%; /* Make width dynamic for grid system */
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
+}
+.row-skill {
+  margin-bottom: 48px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid #000000;
 }
 
 .bars:hover {
@@ -539,7 +538,6 @@ ul#nav li a:hover {
   text-align: center;
   margin-bottom: 48px;
   color: #000;
-  border-bottom: 1px solid #000;
   }
 
 
