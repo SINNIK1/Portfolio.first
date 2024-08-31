@@ -85,16 +85,16 @@
         "url": "https://github.com/SINNIK1/Portfolio.first"
       },
       {
-        "title": "NetFlix Entertainment app (React JS, Redux, Tailwind CSS)",
+        "title": "Gymsym (React JS, Tailwind CSS)",
         "category": "web application",
         "image": "netflix.png",
-        "url": "https://github.com/kumaratul60/netflix-build"
+        "url": "https://github.com/SINNIK1/Gymsym"
       },
       {
-        "title": "Podify music app (React JS, Redux Vite, Tailwind CSS)",
-        "category": "web application",
+        "title": "Dice Game (C#, .NET)",
+        "category": "Application",
         "image": "podify.png",
-        "url": "https://github.com/kumaratul60/podify"
+        "url": "https://github.com/SINNIK1/DiceGame"
       }
     ]
   },
