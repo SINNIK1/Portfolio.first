@@ -39,7 +39,7 @@ const Portfolio = ({ data }) => {
   });
 
   return (
-    <section id="resume">
+    <section id="portfolio">
       <Slide left duration={1300}>
         <div className="row skill">
           <div className="three columns header-col">

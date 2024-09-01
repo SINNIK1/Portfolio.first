@@ -79,30 +79,22 @@
         "url": "https://github.com/SINNIK1/ai-summarizer"
       },
       {
-        "title": "Kar's.Folio (Javascript,HTML,CSS)",
-        "category": "portfolio",
-        "image": "new-pp.png",
-        "url": "https://github.com/SINNIK1/Portfolio.first"
-      },
-      {
         "title": "Gymsym (React JS, Tailwind CSS)",
         "category": "web application",
         "image": "netflix.png",
         "url": "https://github.com/SINNIK1/Gymsym"
       },
       {
+        "title": "Kar's.Folio (Javascript,HTML,CSS)",
+        "category": "portfolio",
+        "image": "new-pp.png",
+        "url": "https://github.com/SINNIK1/Portfolio.first"
+      },
+      {
         "title": "Dice Game (C#, .NET)",
         "category": "Application",
         "image": "podify.png",
         "url": "https://github.com/SINNIK1/DiceGame"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "“Winners never quit, and quitters never win.” ",
-        "user": "Vince Lombardi"
       }
     ]
   }

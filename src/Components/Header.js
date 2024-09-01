@@ -77,7 +77,7 @@ const Header = ({ data }) => {
             <Fade bottom duration={1200}>
               <h3>
                 {/* Based in {city}.  */}
-                Based in Delhi. <span>{occupation}</span> {description}.
+                Based in Delhi, India.<span>{occupation}</span> {description}.
               </h3>
             </Fade>
             <hr />
