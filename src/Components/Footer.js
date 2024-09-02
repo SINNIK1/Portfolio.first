@@ -26,8 +26,8 @@ const Footer = ({ data }) => {
               <li>
                 <span style={ { color: "#fff" } }>2024 || Made by &copy; </span>
                 <a
-                  title="Atul"
-                  href="https://www.linkedin.com/in/kartik-upender-67926a264/"
+                  title="Kartik"
+                  href="https://github.com/SINNIK1"
                   target="_blank"
                   rel="noreferrer"
                 >
