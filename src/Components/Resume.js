@@ -1,7 +1,6 @@
 import { Slide } from "react-reveal";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import 'devicons/css/devicons.css';
 
 const Resume = ({ data }) => {
   AOS.init();
