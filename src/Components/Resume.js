@@ -98,10 +98,9 @@ const Resume = ({ data }) => {
             <h3>Languages</h3>
             <ul class="two-column-list">
               <li>C++</li>
-              <li>C#</li>
+              <li>Java</li>
               <li>JavaScript</li>
               <li>SQL</li> 
-              <li>Python</li>
               <li>HTML</li>
               
             </ul>
@@ -114,11 +113,10 @@ const Resume = ({ data }) => {
             <h3>Frameworks</h3>
             <ul class="two-column-list">
               <li>React</li>
-              <li>Angular</li>
               <li>Next</li>
               <li>Express</li>
               <li>Node</li> 
-              <li>ASP.NET CORE</li>
+              <li>Spring Boot</li>
             </ul>            
             <div class="progress-bar">
               <div class="progress progress-85"></div>
