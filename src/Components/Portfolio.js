@@ -48,9 +48,7 @@ const Portfolio = ({ data }) => {
             </h1>
           </div>
           <div class="bars-container">
-
-              {renderProjects}
-         
+            {renderProjects}         
           </div>                    
         </div>
       </Slide>

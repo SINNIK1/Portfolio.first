@@ -8,7 +8,7 @@ const About = ({ data }) => {
   }, []);
 
   if (!data) {
-    return null; // Return early if data is not available
+    return null;
   }
 
   const {
@@ -61,7 +61,7 @@ const About = ({ data }) => {
                   rel="noreferrer"
                   className="button"
                 >
-                  <i ></i>Resume
+                  Resume
                 </a>
               </p>
             </div>

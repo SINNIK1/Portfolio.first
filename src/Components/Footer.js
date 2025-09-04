@@ -24,7 +24,7 @@ const Footer = ({ data }) => {
 
             <ul className="copyright">
               <li>
-                <span style={ { color: "#fff" } }>2024 || Made by &copy; </span>
+                <span style={ { color: "#fff" } }>2025 || Made by &copy; </span>
                 <a
                   title="Kartik"
                   href="https://github.com/SINNIK1"

@@ -141,11 +141,11 @@ const Resume = ({ data }) => {
             <h3>Tools</h3>
             <ul class="two-column-list">
               <li>VSCode</li>
-              <li>Visual Studio</li>
+              <li>GitHub</li>
               <li>Git</li>
-              <li>SSMS</li> 
-              <li>Juypter</li>
+              <li>DBeaver</li> 
               <li>Postman</li>
+              <li>Linux/Unix</li>
             </ul>            
             <div class="progress-bar">
               <div class="progress progress-85"></div>
