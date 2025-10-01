@@ -23,7 +23,6 @@ const Resume = ({ data }) => {
           {educationItem.degree} <span>&bull;</span>
           <em className="date">{educationItem.graduated}</em>
         </p>
-        <p>{educationItem.description}</p>
       </div>
     ));
   };
